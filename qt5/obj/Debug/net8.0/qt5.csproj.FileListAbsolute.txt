@@ -1,0 +1,14 @@
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\build\qt5.exe
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\build\qt5.deps.json
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\build\qt5.runtimeconfig.json
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\build\qt5.dll
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\build\qt5.pdb
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\qt5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\qt5.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\qt5.AssemblyInfo.cs
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\qt5.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\qt5.dll
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\refint\qt5.dll
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\qt5.pdb
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\qt5.genruntimeconfig.cache
+C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 4\qt5\obj\Debug\net8.0\ref\qt5.dll
